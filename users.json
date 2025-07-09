@@ -1,1 +1,10 @@
-
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Raja",
+      "balance": 100,
+      "activeCalls": []
+    }
+  ]
+}
